@@ -1,0 +1,13 @@
+ 
+     # Student Portal Demo
+
+## Basic Idea
+
+This project is a simple *Student Portal Application* where students can:
+
+- View their academic details
+- Access attendance and marks
+- Download important documents
+- Communicate with faculty and administration
+
+The portal aims to make student-related information easily accessible online in a secure and user-friendly way.
